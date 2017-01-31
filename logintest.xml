@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite" >
+    <test name="LoginAPI">
+        <classes>
+            <!--<class name="testscript.LoginAPI"/>-->
+            <!--<class name="testscript.EmployeeList"/>-->
+            <!--<class name="testscript.SearchEmployee"/>-->
+            <class name="testscript.GoalsAPI"/>
+         </classes>
+    </test> <!-- AppiumTest -->
+</suite> <!-- Default Suite -->
